@@ -134,6 +134,7 @@ ul.dropdown-menu.show a:hover {
     overflow: auto;
   }
 
-  [href]{
+  [href] {
     color: black;
-    text-decoration: none
+    text-decoration: none;
+  }
