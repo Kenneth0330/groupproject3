@@ -133,3 +133,7 @@ ul.dropdown-menu.show a:hover {
     max-height: 30%;
     overflow: auto;
   }
+
+  [href]{
+    color: black;
+    text-decoration: none
